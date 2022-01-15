@@ -1,6 +1,6 @@
 # Demo 3
 
-Just extra training n/
+Just extra training 
 
 seeing how does this s*** working
 
@@ -8,12 +8,12 @@ seeing how does this s*** working
 
 lets see
 
-
 lets check
+
 git 
 ffffff
-testing the keyboard
 
+testing the keyboard
 
 still woggoling
 wiggiling 
